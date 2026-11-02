@@ -1,3 +1,4 @@
 Promesa 1: Un ministerio para cada español.
 Promesa 2: Bajar los impuestos y subir los sueldos a la vez.
 Promesa 3: La verdad es lo que yo diga que es.
+Promesa 4: Prometer cosas que no se pueden cumplir.
